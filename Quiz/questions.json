@@ -1,0 +1,84 @@
+[
+    {"question": "Capital of nepal","answer":"Kathmandu"},
+    
+  {
+    "question": "Capital of Nepal",
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "Capital of India",
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Capital of Japan",
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Capital of China",
+    "answer": "Beijing"
+  },
+  {
+    "question": "Capital of USA",
+    "answer": "Washington D.C."
+  },
+  {
+    "question": "Capital of United Kingdom",
+    "answer": "London"
+  },
+  {
+    "question": "Capital of France",
+    "answer": "Paris"
+  },
+  {
+    "question": "Capital of Germany",
+    "answer": "Berlin"
+  },
+  {
+    "question": "Capital of Australia",
+    "answer": "Canberra"
+  },
+  {
+    "question": "Capital of Canada",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Capital of Brazil",
+    "answer": "Brasília"
+  },
+  {
+    "question": "Capital of Russia",
+    "answer": "Moscow"
+  },
+  {
+    "question": "Capital of South Korea",
+    "answer": "Seoul"
+  },
+  {
+    "question": "Capital of Pakistan",
+    "answer": "Islamabad"
+  },
+  {
+    "question": "Capital of Bangladesh",
+    "answer": "Dhaka"
+  },
+  {
+    "question": "Capital of Sri Lanka",
+    "answer": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "question": "Capital of Italy",
+    "answer": "Rome"
+  },
+  {
+    "question": "Capital of Spain",
+    "answer": "Madrid"
+  },
+  {
+    "question": "Capital of Thailand",
+    "answer": "Bangkok"
+  },
+  {
+    "question": "Capital of UAE",
+    "answer": "Abu Dhabi"
+  }
+]
