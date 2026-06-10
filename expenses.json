@@ -1,0 +1,26 @@
+[
+    {
+        "item": "veggies",
+        "amount": 1295,
+        "category": "Health",
+        "date": "12 Sept"
+    },
+    {
+        "item": "burgers",
+        "amount": 5,
+        "category": "Food",
+        "date": "12 Sept"
+    },
+    {
+        "item": "Beer",
+        "amount": 12,
+        "category": "Alcohol",
+        "date": "13 May"
+    },
+    {
+        "item": "Vodka",
+        "amount": 134,
+        "category": "Alcohol",
+        "date": "14 May"
+    }
+]
